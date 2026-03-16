@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Teenagers",
+  "base_artist": "My Chemical Romance",
+  "createdAt": "2026-03-16T06:13:39.558006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "City (The Teenagers Remix)",
+      "artist": "Lo-Fi-Fnk",
+      "has_synced": false,
+      "path": "select/01_City_(The_Teenagers_Remix)_Lo-Fi-Fnk.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teenagers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/02_Teenagers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teenagers (osno1 sad prom will never die remix)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/03_Teenagers_(osno1_sad_prom_will_never_die_remix)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Bomb (The Teenagers Lou Crush mix)",
+      "artist": "New Young Pony Club",
+      "has_synced": false,
+      "path": "select/04_The_Bomb_(The_Teenagers_Lou_Crush_mix)_New_Young_Pony_Club.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mer du Japon (The Teenagers Remix)",
+      "artist": "Air",
+      "has_synced": true,
+      "path": "select/05_Mer_du_Japon_(The_Teenagers_Remix)_Air.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fallen Snow (The Teenagers Remix)",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/06_Fallen_Snow_(The_Teenagers_Remix)_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fallen Snow (The Teenagers Remix)",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/07_Fallen_Snow_(The_Teenagers_Remix)_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovesick Teenagers",
+      "artist": "Bear In Heaven",
+      "has_synced": true,
+      "path": "select/08_Lovesick_Teenagers_Bear_In_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teenagers",
+      "artist": "Department of Eagles",
+      "has_synced": true,
+      "path": "select/09_Teenagers_Department_of_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Teenagers",
+      "artist": "Courage My Love",
+      "has_synced": true,
+      "path": "select/10_Teenagers_Courage_My_Love.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teenagers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/11_Teenagers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teenagers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/12_Teenagers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Teenagers",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/13_Teenagers_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Teenagers & Rituals",
+      "artist": "Angels & Airwaves",
+      "has_synced": true,
+      "path": "select/14_Teenagers_&_Rituals_Angels_&_Airwaves.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Teenagers (Live)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/15_Teenagers_(Live)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It's the Beat (The Teenagers remix)",
+      "artist": "Simian Mobile Disco",
+      "has_synced": false,
+      "path": "select/16_It's_the_Beat_(The_Teenagers_remix)_Simian_Mobile_Disco.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Teenagers From Mars",
+      "artist": "Misfits",
+      "has_synced": true,
+      "path": "select/17_Teenagers_From_Mars_Misfits.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Songs For Teenagers",
+      "artist": "Fake Problems",
+      "has_synced": false,
+      "path": "select/18_Songs_For_Teenagers_Fake_Problems.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teenagers",
+      "artist": "My Chemical Romance",
+      "has_synced": false,
+      "path": "select/pl_01_Teenagers_My_Chemical_Romance.txt"
+    }
+  ]
+}
